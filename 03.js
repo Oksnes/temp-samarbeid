@@ -4,4 +4,5 @@ function celsiusToFahrenheit(c) {
 }
 celsiusToFahrenheit();
 
+// dette er en kul endring!
 //felix hemmelige notater
